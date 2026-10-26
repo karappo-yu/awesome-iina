@@ -37,7 +37,7 @@
 ## 官方资源
 
 - [iina.io](https://iina.io) — 官方网站。
-- [iina/iina](https://github.com/iina/iina) — IINA 源代码。 `⭐ 46899 · 🗓 2026-10`
+- [iina/iina](https://github.com/iina/iina) — IINA 源代码。 `⭐ 46915 · 🗓 2026-10`
 - [Plugin Center](https://iina.io/plugins/) — 官方插件目录，可在 IINA 的插件管理器中直接安装。
 - [docs.iina.io](https://docs.iina.io/) — 官方插件 API 文档。
 - [GitHub Discussions](https://github.com/iina/iina/discussions) — 问答、功能讨论与版本反馈。
@@ -93,7 +93,7 @@ brew install --cask iina
 - [glechic/iina-bilingual-audio](https://github.com/glechic/iina-bilingual-audio) — 左右声道分离播放两条音轨，双语观看。 `⭐ 2 · 🗓 2026-07`
 - [leo-mathurin/iina-nightshift-fs](https://github.com/leo-mathurin/iina-nightshift-fs) — 全屏播放时自动关闭 macOS 的 Night Shift。 `⭐ 2 · 🗓 2026-05`
 - [nastarandarjani/iina-pip-toggle](https://github.com/nastarandarjani/iina-pip-toggle) — 在画中画与全屏之间切换。 `⭐ 9 · 🗓 2026-04`
-- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — 通过拖拽标记自动跳过片头片尾。 `⭐ 4 · 🗓 2026-07`
+- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — 通过拖拽标记自动跳过片头片尾。 `⭐ 4 · 🗓 2026-10`
 - [pparanoiidd/iina-skip-intro](https://github.com/pparanoiidd/iina-skip-intro) — 检测并跳过片头、回顾和 Staff 片尾。 `⭐ 20 · 🗓 2026-10`
 - [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — 按住空格以 2 倍速播放，就像 YouTube 一样。 `⭐ 15 · 🗓 2026-06`
 - [treehog2/iina-absave-plugin](https://github.com/treehog2/iina-absave-plugin) — 保存 AB 循环。 `⭐ 5 · 🗓 2025-11`
@@ -103,7 +103,7 @@ brew install --cask iina
 
 - [5thDimensionalVader/recorder-iina](https://github.com/5thDimensionalVader/recorder-iina) — 使用 ffmpeg 剪辑视频片段。 `⭐ 13 · 🗓 2026-07`
 - [bbeny123/iina-hdr-screenshot](https://github.com/bbeny123/iina-hdr-screenshot) — 使用 ffmpeg 截取 HDR 截图。 `⭐ 5 · 🗓 2026-02`
-- [Fhlisherman/iina-video-upscaler](https://github.com/Fhlisherman/iina-video-upscaler) — GPU 加速超分辨率放大。 `⭐ 22 · 🗓 2026-04`
+- [Fhlisherman/iina-video-upscaler](https://github.com/Fhlisherman/iina-video-upscaler) — GPU 加速超分辨率放大。 `⭐ 23 · 🗓 2026-04`
 - [Gabe-LS/iina-audio-normalize](https://github.com/Gabe-LS/iina-audio-normalize) — 自动音量标准化（峰值与 EBU R128 响度两种模式）。 `⭐ 5 · 🗓 2026-05`
 - [karthisnk/multi-cutter-iina](https://github.com/karthisnk/multi-cutter-iina) — 用 ffmpeg 剪出多段片段，支持批量剪辑、竖屏裁剪、格式选择与预览。 `⭐ 14 · 🗓 2026-01`
 - [lenadweb/iina-plugin-keystone](https://github.com/lenadweb/iina-plugin-keystone) — 投影仪垂直/水平梯形校正，可实时调整。 `⭐ 2 · 🗓 2026-09`
@@ -123,7 +123,7 @@ brew install --cask iina
 
 ### 弹幕
 
-- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay 弹幕，CSS 与 Canvas 双渲染，支持 Comment Art 与样式预设。 `⭐ 14 · 🗓 2026-09`
+- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay 弹幕，CSS 与 Canvas 双渲染，支持 Comment Art 与样式预设。 `⭐ 15 · 🗓 2026-09`
 - [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — 在画面上叠加弹幕。 `⭐ 24 · 🗓 2026-09`
 
 ### 语言学习
@@ -182,7 +182,7 @@ brew install --cask iina
 
 - [IINA（维基百科）](https://en.wikipedia.org/wiki/IINA) — 背景与历史。
 - [mpv 手册](https://mpv.io/manual/master/) — IINA 的高级设置暴露了大部分 mpv 选项，mpv 手册是权威参考。
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — IINA 在线播放及许多插件的底层依赖。 `⭐ 201713 · 🗓 2026-10`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — IINA 在线播放及许多插件的底层依赖。 `⭐ 202293 · 🗓 2026-10`
 
 ## 参与贡献
 

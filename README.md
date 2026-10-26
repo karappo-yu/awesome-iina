@@ -35,7 +35,7 @@ English | [简体中文](README.zh-CN.md) (community translation — may lag beh
 ## Official Resources
 
 - [iina.io](https://iina.io) — Official website.
-- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 46899 · 🗓 2026-10`
+- [iina/iina](https://github.com/iina/iina) — Source code of IINA. `⭐ 46915 · 🗓 2026-10`
 - [Plugin Center](https://iina.io/plugins/) — Official curated plugin directory, installed directly from IINA's plugin manager.
 - [docs.iina.io](https://docs.iina.io/) — Official plugin API documentation.
 - [GitHub Discussions](https://github.com/iina/iina/discussions) — Q&A, feature ideas and release feedback.
@@ -91,7 +91,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 - [glechic/iina-bilingual-audio](https://github.com/glechic/iina-bilingual-audio) — Play two audio tracks with left/right channel separation for bilingual viewing. `⭐ 2 · 🗓 2026-07`
 - [leo-mathurin/iina-nightshift-fs](https://github.com/leo-mathurin/iina-nightshift-fs) — Disable macOS Night Shift while in fullscreen. `⭐ 2 · 🗓 2026-05`
 - [nastarandarjani/iina-pip-toggle](https://github.com/nastarandarjani/iina-pip-toggle) — Toggle Picture-in-Picture to fullscreen. `⭐ 9 · 🗓 2026-04`
-- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — Automatically skip intro and outro sections with a drag-to-set overlay. `⭐ 4 · 🗓 2026-07`
+- [pangziqiang/iina-auto-skip](https://github.com/pangziqiang/iina-auto-skip) — Automatically skip intro and outro sections with a drag-to-set overlay. `⭐ 4 · 🗓 2026-10`
 - [pparanoiidd/iina-skip-intro](https://github.com/pparanoiidd/iina-skip-intro) — Detect and skip intros, recaps and credits. `⭐ 20 · 🗓 2026-10`
 - [Tommy12356F/iina-hold-to-speed](https://github.com/Tommy12356F/iina-hold-to-speed) — Hold Space to play at 2× speed, just like YouTube. `⭐ 15 · 🗓 2026-06`
 - [treehog2/iina-absave-plugin](https://github.com/treehog2/iina-absave-plugin) — Save AB loops. `⭐ 5 · 🗓 2025-11`
@@ -101,7 +101,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 - [5thDimensionalVader/recorder-iina](https://github.com/5thDimensionalVader/recorder-iina) — Clip a video using ffmpeg. `⭐ 13 · 🗓 2026-07`
 - [bbeny123/iina-hdr-screenshot](https://github.com/bbeny123/iina-hdr-screenshot) — Capture HDR screenshots using ffmpeg. `⭐ 5 · 🗓 2026-02`
-- [Fhlisherman/iina-video-upscaler](https://github.com/Fhlisherman/iina-video-upscaler) — GPU-accelerated upscaling. `⭐ 22 · 🗓 2026-04`
+- [Fhlisherman/iina-video-upscaler](https://github.com/Fhlisherman/iina-video-upscaler) — GPU-accelerated upscaling. `⭐ 23 · 🗓 2026-04`
 - [Gabe-LS/iina-audio-normalize](https://github.com/Gabe-LS/iina-audio-normalize) — Automatic audio normalization (peak and EBU R128 loudness modes). `⭐ 5 · 🗓 2026-05`
 - [karthisnk/multi-cutter-iina](https://github.com/karthisnk/multi-cutter-iina) — Cut multiple clips with ffmpeg, with batch clipping, vertical clips, format selection and preview. `⭐ 14 · 🗓 2026-01`
 - [lenadweb/iina-plugin-keystone](https://github.com/lenadweb/iina-plugin-keystone) — Vertical/horizontal keystone correction for projectors, adjusted live. `⭐ 2 · 🗓 2026-09`
@@ -121,7 +121,7 @@ Plugins are written in JavaScript, packaged as `.iinaplgz`, and installed from I
 
 ### Danmaku
 
-- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 14 · 🗓 2026-09`
+- [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) — Niconico/Bilibili/DanDanPlay danmaku with dual CSS & Canvas rendering, Comment Art support and style presets. `⭐ 15 · 🗓 2026-09`
 - [xjbeta/iina-plugin-danmaku](https://github.com/xjbeta/iina-plugin-danmaku) — Overlay danmaku comments on video. `⭐ 24 · 🗓 2026-09`
 
 ### Language Learning
@@ -180,7 +180,7 @@ The source of the official extension lives in the main repository under [`browse
 
 - [IINA on Wikipedia](https://en.wikipedia.org/wiki/IINA) — Background and history.
 - [mpv manual](https://mpv.io/manual/master/) — IINA exposes most mpv options in its advanced settings; the mpv manual is the reference for them.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 201713 · 🗓 2026-10`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Powers online-media playback in IINA and many plugins. `⭐ 202293 · 🗓 2026-10`
 
 ## Contribute
 
